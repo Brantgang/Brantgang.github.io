@@ -1,5 +1,9 @@
 # Site
+<<<<<<< HEAD
 title:              Moon
+=======
+title:              寒烟独醉
+>>>>>>> ef5d8948249d427de5d41fdaf4b16ccd64616348
 bio:                '观书当自出见解，处世要善体人情'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
