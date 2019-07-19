@@ -1,15 +1,16 @@
 # Site
 title:              寒烟独醉
 bio:                '观书当自出见解，处世要善体人情'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "没有人不爱惜他的生命，但很少人珍视他的时间。"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+language:           chinese
+locale:             CHINA
 url:                https://Brantgang.github.io
-
+timezone:           Asia/Shanghai
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -38,8 +39,8 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
+#twitter:            username
+#facebook:           username
 github-url:         Brantgang
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -50,7 +51,7 @@ github-url:         Brantgang
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
