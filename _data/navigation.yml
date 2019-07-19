@@ -1,12 +1,12 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Spring
+  url: /_posts/
   
-- title: Blog
+- title: JAVA
   url: /blog/
 
-- title: Projects
+- title: Archives
   url: /projects/
 
 - title: About
