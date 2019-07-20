@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
+title: 感悟 故事 
 excerpt: "A List of Projects"
 comments: false
 ---
